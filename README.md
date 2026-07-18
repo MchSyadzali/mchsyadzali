@@ -6,7 +6,7 @@
 
 I'm Moch Syadzali Chusaini, a Software Developer from Indonesia 🇮🇩
 
-I'm rebuilding my programming journey and exploring the world of software development, Artificial Intelligence, and Automation.
+Rebuilding my programming journey and exploring the world of software development, Artificial Intelligence, and Automation.
 
 Currently focusing on:
 - Web Development
@@ -33,9 +33,6 @@ I enjoy building useful solutions, learning new technologies, and combining prog
 
 ### other skills :
 ![Playstation](https://img.shields.io/badge/Playstation-003791?style=for-the-badge&logo=playstation&logoColor=white)
-- ngaji
-- speak english, arabic, kromo javanese
-- pagar nusa
 
 ### Interest :
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -75,7 +72,7 @@ I enjoy building useful solutions, learning new technologies, and combining prog
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=087745545990)
 
 
-- Official Website : https://www.mochsyadzalichusaini.com (still process)
+- Official Website : https://www.mochsyadzalichusaini.com (on progress)
 - more : https://mochsyadzalichusaini.bio.link
 
 
