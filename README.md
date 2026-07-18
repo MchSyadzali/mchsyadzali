@@ -49,7 +49,7 @@ I enjoy building useful solutions, learning new technologies, and combining prog
 - CTF
 - Penetration Testing
 
-#### :octocat: come discuss and drink coffee and smoke with me! ☕🚬
+#### :octocat: Always open to discussing technology, software development, and new ideas. ☕
 
 ### Follow Us
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@moch.syadzali.chusaini)
