@@ -4,8 +4,6 @@
 
 # Hello There! 👋
 
-I'm Moch Syadzali Chusaini, a Software Developer from Indonesia 🇮🇩
-
 Rebuilding my programming journey and exploring the world of software development, Artificial Intelligence, and Automation.
 
 Currently focusing on:
