@@ -16,7 +16,7 @@ Currently focusing on:
 
 I enjoy building useful solutions, learning new technologies, and combining programming with creativity and business mindset. 🚀
 
-### IT SKILLS OR ABILITIES :
+### SKILLS OR ABILITIES :
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -27,8 +27,6 @@ I enjoy building useful solutions, learning new technologies, and combining prog
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 - Programming (HTML, CSS, JS)
-- Internet Marketplace Seller
-- Content Creator At YouTube
 - GNU/Linux
 
 ### Interest :
