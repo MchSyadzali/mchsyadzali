@@ -31,9 +31,6 @@ I enjoy building useful solutions, learning new technologies, and combining prog
 - Content Creator At YouTube
 - GNU/Linux
 
-### other skills :
-![Playstation](https://img.shields.io/badge/Playstation-003791?style=for-the-badge&logo=playstation&logoColor=white)
-
 ### Interest :
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
