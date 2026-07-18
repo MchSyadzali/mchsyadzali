@@ -6,8 +6,19 @@
 
 Hello There! 👋 my name is Moch Syadzali Chusaini from Indonesia ✨
 
+# Hello There! 👋
 
-- 🎯 Worked on IT life + Environtment 💻 & Business everyday consistently and istiqomah. Such as : pursuing Coding or Open Source Software App Programmer and start focus on Frontend Developer with JS and Its Environtment, Internet Marketplace Seller, Content Creators on YouTube, and more++
+I'm Moch Syadzali Chusaini, a Software Developer from Indonesia 🇮🇩
+
+I'm rebuilding my programming journey and exploring the world of software development, Artificial Intelligence, and Automation.
+
+Currently focusing on:
+- Web Development
+- AI Engineering
+- Automation Tools
+- Open Source Projects
+
+I enjoy building useful solutions, learning new technologies, and combining programming with creativity and business mindset. 🚀
 
 ### IT SKILLS OR ABILITIES :
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
