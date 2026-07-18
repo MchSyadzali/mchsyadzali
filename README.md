@@ -2,10 +2,6 @@
   <a href="https://mochsyadzalichusaini.bio.link" target="_blank">https://www.mochsyadzalichusaini.com</a>
 </h1>
 
-
-
-Hello There! 👋 my name is Moch Syadzali Chusaini from Indonesia ✨
-
 # Hello There! 👋
 
 I'm Moch Syadzali Chusaini, a Software Developer from Indonesia 🇮🇩
