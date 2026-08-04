@@ -4,10 +4,10 @@
 
 # Hello There! 👋
 
-Rebuilding my programming journey and exploring the world of software development, Artificial Intelligence, and Automation.
+Rebuilding my programming journey and exploring the world of software engineer, Artificial Intelligence, and Automation.
 
 Currently focusing on:
-- Web Development
+- Web & Mobile Development
 - AI Engineering
 - Automation Tools
 - Open Source Projects
