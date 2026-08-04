@@ -69,7 +69,7 @@ I enjoy building useful solutions, learning new technologies, and combining prog
 - more : https://mochsyadzalichusaini.bio.link
 
 
-### Support Me On :
+### Support :
 [![buymeacoffee](https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg)](https://www.buymeacoffee.com/mochsyadzali)
 
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/mochsyadzalichusaini)
